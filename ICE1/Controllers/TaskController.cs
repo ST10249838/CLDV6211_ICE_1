@@ -20,9 +20,22 @@ namespace ICE1.Controllers
         }
 
         // GET: Task
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.TaskModel.ToListAsync());
+            if (_context.TaskModel == null)
+            {
+                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+            }
+
+            var movies = from m in _context.TaskModel
+                         select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                movies = movies.Where(s => s.Title!.Contains(searchString));
+            }
+
+            return View(await movies.ToListAsync());
         }
 
         // GET: Task/Details/5

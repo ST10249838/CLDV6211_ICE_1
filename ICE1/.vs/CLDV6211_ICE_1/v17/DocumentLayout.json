@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\cldv6211\\projects\\cldv6211_ice_1\\ice1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\cldv6211\\projects\\cldv6211_ice_1\\ice1\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|solutionrelative:views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\cldv6211\\projects\\cldv6211_ice_1\\ice1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -28,6 +36,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T21:20:16.299Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "Views\\Task\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T21:30:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:25:52.427Z",
               "EditorCaption": ""
             },
             {
