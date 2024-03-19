@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\cldv6211\\projects\\cldv6211_ice_1\\ice1\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\cldv6211\\projects\\cldv6211_ice_1\\ice1\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5063E13-57FB-4D20-B212-B9A6C2D96001}|ICE1.csproj|solutionrelative:views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -26,13 +22,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB0AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T21:20:16.299Z",
               "IsPinned": true,
@@ -41,27 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskModel.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Models\\TaskModel.cs",
-              "RelativeDocumentMoniker": "Models\\TaskModel.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Models\\TaskModel.cs",
-              "RelativeToolTip": "Models\\TaskModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T21:45:11.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Task\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Task\\Index.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\CLDV6211\\Projects\\CLDV6211_ICE_1\\ICE1\\Views\\Task\\Index.cshtml",
               "RelativeToolTip": "Views\\Task\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T21:30:50.899Z",
+              "WhenOpened": "2024-03-19T22:32:31.406Z",
               "EditorCaption": ""
             },
             {
